@@ -17,7 +17,7 @@ Este trabalho visa a implementação de estruturas de dados para representação
 
 ## Professor
 
-* [Walisson Ferreira de Carvalho](https://www.escavador.com/sobre/8334371/walisson-ferreira-de-carvalho)
+* [Dr. Walisson Ferreira de Carvalho](https://www.escavador.com/sobre/8334371/walisson-ferreira-de-carvalho)
 
 
 
